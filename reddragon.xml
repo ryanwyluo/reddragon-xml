@@ -1323,7 +1323,7 @@
 	<id>/sys-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>47</value>
+	<value>150</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -1678,7 +1678,7 @@
 	<id>/sys-0/node-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>3</value>
+	<value>5</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -1765,7 +1765,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>15</value>
+	<value>22</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -1812,7 +1812,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>14</value>
+	<value>23</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -1859,7 +1859,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>13</value>
+	<value>24</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -1906,7 +1906,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>12</value>
+	<value>25</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -1951,6 +1951,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>26</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM4</value>
@@ -2007,6 +2011,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>27</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM5</value>
 	</property>
@@ -2061,6 +2069,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>28</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM6</value>
@@ -2117,6 +2129,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>29</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM7</value>
 	</property>
@@ -2166,7 +2182,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-0/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>4</value>
+	<value>6</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -2259,7 +2275,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>19</value>
+	<value>30</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -2306,7 +2322,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>18</value>
+	<value>31</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -2353,7 +2369,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>17</value>
+	<value>32</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -2400,7 +2416,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>16</value>
+	<value>33</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -2445,6 +2461,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>34</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM12</value>
@@ -2501,6 +2521,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>35</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM13</value>
 	</property>
@@ -2555,6 +2579,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>36</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM14</value>
@@ -2611,6 +2639,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>37</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM15</value>
 	</property>
@@ -2660,7 +2692,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-1/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>5</value>
+	<value>7</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -2752,6 +2784,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>102</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM80</value>
 	</property>
@@ -2806,6 +2842,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>103</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM81</value>
@@ -2862,6 +2902,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>104</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM82</value>
 	</property>
@@ -2916,6 +2960,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>105</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM83</value>
@@ -2972,6 +3020,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>106</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM84</value>
 	</property>
@@ -3026,6 +3078,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>107</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM85</value>
@@ -3082,6 +3138,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>108</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM86</value>
 	</property>
@@ -3137,6 +3197,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>109</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM87</value>
 	</property>
@@ -3184,6 +3248,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-10/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>16</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF10</value>
@@ -3282,6 +3350,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>110</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM88</value>
 	</property>
@@ -3336,6 +3408,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>111</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM89</value>
@@ -3392,6 +3468,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>112</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM90</value>
 	</property>
@@ -3446,6 +3526,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>113</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM91</value>
@@ -3502,6 +3586,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>114</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM92</value>
 	</property>
@@ -3556,6 +3644,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>115</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM93</value>
@@ -3612,6 +3704,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>116</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM94</value>
 	</property>
@@ -3667,6 +3763,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>117</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM95</value>
 	</property>
@@ -3714,6 +3814,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-11/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>17</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF11</value>
@@ -3812,6 +3916,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>118</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM96</value>
 	</property>
@@ -3866,6 +3974,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>119</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM97</value>
@@ -3922,6 +4034,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>120</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM98</value>
 	</property>
@@ -3976,6 +4092,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>121</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM99</value>
@@ -4032,6 +4152,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>122</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM100</value>
 	</property>
@@ -4086,6 +4210,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>123</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM101</value>
@@ -4142,6 +4270,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>124</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM102</value>
 	</property>
@@ -4197,6 +4329,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>125</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM103</value>
 	</property>
@@ -4244,6 +4380,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-12/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>18</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF12</value>
@@ -4342,6 +4482,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>126</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM104</value>
 	</property>
@@ -4396,6 +4540,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>127</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM105</value>
@@ -4452,6 +4600,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>128</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM106</value>
 	</property>
@@ -4506,6 +4658,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>129</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM107</value>
@@ -4562,6 +4718,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>130</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM108</value>
 	</property>
@@ -4616,6 +4776,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>131</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM109</value>
@@ -4672,6 +4836,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>132</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM110</value>
 	</property>
@@ -4727,6 +4895,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>133</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM111</value>
 	</property>
@@ -4774,6 +4946,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-13/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>19</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF13</value>
@@ -4872,6 +5048,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>134</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM112</value>
 	</property>
@@ -4926,6 +5106,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>135</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM113</value>
@@ -4982,6 +5166,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>136</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM114</value>
 	</property>
@@ -5036,6 +5224,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>137</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM115</value>
@@ -5092,6 +5284,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>138</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM116</value>
 	</property>
@@ -5146,6 +5342,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>139</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM117</value>
@@ -5202,6 +5402,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>140</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM118</value>
 	</property>
@@ -5257,6 +5461,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>141</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM119</value>
 	</property>
@@ -5304,6 +5512,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-14/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>20</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF14</value>
@@ -5402,6 +5614,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>142</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM120</value>
 	</property>
@@ -5456,6 +5672,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>143</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM121</value>
@@ -5512,6 +5732,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>144</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM122</value>
 	</property>
@@ -5566,6 +5790,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>145</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM123</value>
@@ -5622,6 +5850,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>146</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM124</value>
 	</property>
@@ -5676,6 +5908,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>147</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM125</value>
@@ -5732,6 +5968,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>148</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM126</value>
 	</property>
@@ -5787,6 +6027,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>149</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM127</value>
 	</property>
@@ -5834,6 +6078,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-15/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>21</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF15</value>
@@ -5937,7 +6185,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>23</value>
+	<value>38</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -5984,7 +6232,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>22</value>
+	<value>39</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6031,7 +6279,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>21</value>
+	<value>40</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6078,7 +6326,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>20</value>
+	<value>41</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6123,6 +6371,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>42</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM20</value>
@@ -6179,6 +6431,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>43</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM21</value>
 	</property>
@@ -6233,6 +6489,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>44</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM22</value>
@@ -6289,6 +6549,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>45</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM23</value>
 	</property>
@@ -6338,7 +6602,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-2/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>6</value>
+	<value>8</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6435,7 +6699,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>27</value>
+	<value>46</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6482,7 +6746,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>26</value>
+	<value>47</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6529,7 +6793,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>25</value>
+	<value>48</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6576,7 +6840,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>24</value>
+	<value>49</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6621,6 +6885,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>50</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM28</value>
@@ -6677,6 +6945,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>51</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM29</value>
 	</property>
@@ -6731,6 +7003,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>52</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM30</value>
@@ -6787,6 +7063,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>53</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM31</value>
 	</property>
@@ -6836,7 +7116,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-3/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>7</value>
+	<value>9</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6933,7 +7213,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>31</value>
+	<value>54</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -6980,7 +7260,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>30</value>
+	<value>55</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7027,7 +7307,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>29</value>
+	<value>56</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7074,7 +7354,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>28</value>
+	<value>57</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7119,6 +7399,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>58</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM36</value>
@@ -7175,6 +7459,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>59</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM37</value>
 	</property>
@@ -7229,6 +7517,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>60</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM38</value>
@@ -7285,6 +7577,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>61</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM39</value>
 	</property>
@@ -7334,7 +7630,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-4/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>8</value>
+	<value>10</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7435,7 +7731,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>35</value>
+	<value>62</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7482,7 +7778,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>34</value>
+	<value>63</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7529,7 +7825,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>33</value>
+	<value>64</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7576,7 +7872,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>32</value>
+	<value>65</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7621,6 +7917,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>66</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM44</value>
@@ -7677,6 +7977,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>67</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM45</value>
 	</property>
@@ -7731,6 +8035,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>68</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM46</value>
@@ -7787,6 +8095,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>69</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM47</value>
 	</property>
@@ -7836,7 +8148,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-5/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>9</value>
+	<value>11</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7937,7 +8249,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>39</value>
+	<value>70</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -7984,7 +8296,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>38</value>
+	<value>71</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8031,7 +8343,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>37</value>
+	<value>72</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8078,7 +8390,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>36</value>
+	<value>73</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8123,6 +8435,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>74</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM52</value>
@@ -8179,6 +8495,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>75</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM53</value>
 	</property>
@@ -8233,6 +8553,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>76</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM54</value>
@@ -8289,6 +8613,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>77</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM55</value>
 	</property>
@@ -8338,7 +8666,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-6/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>10</value>
+	<value>12</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8439,7 +8767,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-0/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>43</value>
+	<value>78</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8486,7 +8814,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-1/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>42</value>
+	<value>79</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8533,7 +8861,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-2/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>41</value>
+	<value>80</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8580,7 +8908,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-3/dimm-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>40</value>
+	<value>81</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8625,6 +8953,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-4/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>82</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM60</value>
@@ -8681,6 +9013,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-5/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>83</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM61</value>
 	</property>
@@ -8735,6 +9071,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-6/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>84</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM62</value>
@@ -8791,6 +9131,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>85</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM63</value>
 	</property>
@@ -8840,7 +9184,7 @@
 	<id>/sys-0/node-0/ponderosa-0/birchconn-7/birch-0/membuf-0</id>
 	<property>
 	<id>FRU_ID</id>
-	<value>11</value>
+	<value>13</value>
 	</property>
 	<property>
 	<id>FRU_NAME</id>
@@ -8936,6 +9280,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>86</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM64</value>
 	</property>
@@ -8990,6 +9338,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>87</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM65</value>
@@ -9046,6 +9398,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>88</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM66</value>
 	</property>
@@ -9100,6 +9456,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>89</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM67</value>
@@ -9156,6 +9516,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>90</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM68</value>
 	</property>
@@ -9210,6 +9574,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>91</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM69</value>
@@ -9266,6 +9634,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>92</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM70</value>
 	</property>
@@ -9321,6 +9693,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>93</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM71</value>
 	</property>
@@ -9368,6 +9744,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-8/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>14</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF8</value>
@@ -9466,6 +9846,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-0/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>94</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM72</value>
 	</property>
@@ -9520,6 +9904,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-1/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>95</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM73</value>
@@ -9576,6 +9964,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-2/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>96</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM74</value>
 	</property>
@@ -9630,6 +10022,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-3/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>97</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM75</value>
@@ -9686,6 +10082,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-4/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>98</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM76</value>
 	</property>
@@ -9740,6 +10140,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-5/dimm-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>99</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM77</value>
@@ -9796,6 +10200,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-6/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>100</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM78</value>
 	</property>
@@ -9851,6 +10259,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/dimmconn-7/dimm-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>101</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>DIMM79</value>
 	</property>
@@ -9898,6 +10310,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/birchconn-9/birch-0/membuf-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>15</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>MEMBUF9</value>
@@ -11324,6 +11740,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-2/module-1/proc</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>3</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>CPU2</value>
 	</property>
@@ -11941,6 +12361,10 @@
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-2/module-1/proc/occ-0</id>
 	<property>
+	<id>FRU_ID</id>
+	<value>3</value>
+	</property>
+	<property>
 	<id>FRU_NAME</id>
 	<value>OCC2</value>
 	</property>
@@ -12009,6 +12433,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-3/module-1/proc</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>4</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>CPU3</value>
@@ -12626,6 +13054,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-3/module-1/proc/occ-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value>4</value>
+	</property>
 	<property>
 	<id>FRU_NAME</id>
 	<value>OCC3</value>
