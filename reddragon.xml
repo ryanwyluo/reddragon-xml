@@ -6121,7 +6121,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x0A</value>
+	<value>0xA0</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -10600,14 +10600,14 @@
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-0/module-0/proc/cpu_func_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x0C</value>
 	</property>
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-0/module-0/proc/cpu_temp_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x00</value>
+	<value>0x0B</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -10643,7 +10643,7 @@
 	<id>/sys-0/node-0/ponderosa-0/proc_socket-0/module-0/proc/ex-1/core-0/cpucore_temp_sensor</id>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xA8</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -11130,7 +11130,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x0E</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -11141,7 +11141,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x01</value>
+	<value>0x0D</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -11185,7 +11185,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xA9</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -11768,7 +11768,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x03</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -11827,7 +11827,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xAE</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -12462,7 +12462,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0x0F</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -12473,7 +12473,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value>0x03</value>
+	<value>0x0A</value>
 	</property>
 </globalSetting>
 <globalSetting>
@@ -12521,7 +12521,7 @@
 	</property>
 	<property>
 	<id>IPMI_SENSOR_ID</id>
-	<value></value>
+	<value>0xAF</value>
 	</property>
 </globalSetting>
 <globalSetting>
